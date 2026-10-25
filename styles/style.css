@@ -64,7 +64,10 @@ header {
 }
 
 .lots {
-    margin: 0 24px 120px; 
+    margin-top: 0;
+    margin-right: 24px;
+    margin-bottom: 120px;
+    margin-left: 24px;
     height: 723px;
 }
 
@@ -181,7 +184,7 @@ p {
     color: white;
     font-family: Raleway, bold;
     font-size: 22px;
-    font-weight: 600;;
+    font-weight: 600;
     text-transform: uppercase;
 }
 
